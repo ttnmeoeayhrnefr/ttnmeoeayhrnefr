@@ -1,5 +1,5 @@
 ## About me
-👋 Hi, I’m **ttnmeoeayhrnefr**  
+👋 Hi, I’m **Théo**  
 👀 Mainly interested in Cybersecurity, DevOps/SecDevOps/DevSecOps and Linux in general  
 🏫 Graduating from a Bachelor in Developpement and System Administration from Ipssi Paris  
 🔭 Working on improving my skills with Ansible, Jenkins, Terraform, Kubernetes, Helm and GitLab CI/CD  
