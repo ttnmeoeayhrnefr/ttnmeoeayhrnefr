@@ -1,9 +1,9 @@
 ## About me
 👋 Hi, I’m **ttnmeoeayhrnefr**  
-👀 Mainly interested in Cybersecurity, DevOps/SecDevOps/DevSecOps and Linux in general
-🏫 Graduating from a Bachelor in Developpement and System Administration from Ipssi Paris
-🔭 Working on improving my skills with Ansible, Jenkins, Terraform, Kubernetes, Helm and GitLab CI/CD
-🥇 Current goal : getting confortable with aforementioned skills
+👀 Mainly interested in Cybersecurity, DevOps/SecDevOps/DevSecOps and Linux in general  
+🏫 Graduating from a Bachelor in Developpement and System Administration from Ipssi Paris  
+🔭 Working on improving my skills with Ansible, Jenkins, Terraform, Kubernetes, Helm and GitLab CI/CD  
+🥇 Current goal : getting confortable with aforementioned skills  
 
 ## Skills & Techs
 ### Verified
