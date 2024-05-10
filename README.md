@@ -9,9 +9,11 @@
 ### Verified
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,css,debian,bots,express,figma,git,github,gitlab,html,js,jquery,linux,mysql,nginx,nodejs,npm,php,phpstorm,postman,powershell,py,react,regex,sublime,ubuntu,unity,vim,visualstudio,vscode,windows,yarn&perline=14" />
-    <img src="https://skillicons.dev/icons?i=bash,css,debian,bots,express,figma,git,github,gitlab,html,js,jquery,linux,mysql,nginx,nodejs,npm,php,phpstorm,postman,powershell,py,react,regex,sublime,ubuntu,unity,vim,visualstudio,vscode,windows,yarn&perline=14" />
-    <img src="https://skillicons.dev/icons?i=bash,css,debian,bots,express,figma,git,github,gitlab,html,js,jquery,linux,mysql,nginx,nodejs,npm,php,phpstorm,postman,powershell,py,react,regex,sublime,ubuntu,unity,vim,visualstudio,vscode,windows,yarn&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,py,php,react,mysql,powershell,bash,postman,express,npm,yarn,unity&perline=14" />
+    <img src="https://skillicons.dev/icons?i=debian,ubuntu,linux,windows&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bots&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nginx&perline=14" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,phpstorm,sublime,figma,vim,regex&perline=14" />
   </a>
 </p>
 
